@@ -319,8 +319,8 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
-            image: './images/photo1.jpg'
+            text: 'Our First Date going to bingxue to bought boba ice cream 💕',
+            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/4102616738c5e280b00cfdce088846d784c0223f/images/IMG-20251120-WA0059.jpg' 
         },
         {
             text: 'Birthday Moment 🎂',

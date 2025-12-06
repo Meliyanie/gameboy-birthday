@@ -225,12 +225,9 @@ function startTypewriter() {
     
     const fullMessage = `Hi,
 
-Happy Birthday!
+Happy Birthday VIKKI RAHMAN HIDAYAT abang gemoyy!
 
-Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.
-
-Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).
-
+selamat ulang tahun cayangkuu, semoga panjang umur sehat selalu diperlancarkan rezeki dan dipermudahkan segala urusan nya, semoga segala keinginan abang cepat tercapai, dan sukses selalu, Aamiin ya Allah. makasih cayang yaa udah mau pilih gemoy buat jadi pasangan abang, gemoy senang banget rasanya ada abang hadir di hidup gemoy dari awal kehadiran abang, makasih juga abang selalu menemani gemoy disaat senang, sedih, lagi sakit dan marah marah nya, eeehehe... gemoy bangga punya abang dan gemoy yakin abang pasti bisa melewati semua tantangan dan rintangan yang akan kedepan nya, semangatt truss cayang ku yaa
 I love you so much! 💕`;
     
     // Clear content and start fresh
@@ -266,7 +263,7 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Hi Cel,<br><br>Happy Birthday!<br><br>Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.<br><br>Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).<br><br>I love you so much! 💕`;
+            const fullMessage = `Hi abangg,<br><br>Happy Birthday!<br><br>selamat ulang tahun cayangkuu, semoga panjang umur sehat selalu diperlancarkan rezeki dan dipermudahkan segala urusan nya, semoga segala keinginan abang cepat tercapai, dan sukses selalu, Aamiin ya Allah. makasih cayang yaa udah mau pilih gemoy buat jadi pasangan abang, gemoy senang banget rasanya ada abang hadir di hidup gemoy dari awal kehadiran abang, makasih juga abang selalu menemani gemoy disaat senang, sedih, lagi sakit dan marah marah nya, eeehehe... gemoy bangga punya abang dan gemoy yakin abang pasti bisa melewati semua tantangan dan rintangan yang akan kedepan nya, semangatt truss cayang ku yaa.<br><br>I love you so much! 💕`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
@@ -323,7 +320,7 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date 💕',
-            image: './images/photo1.jpg'
+            image: 'https://github.com/Meliyanie/gimbwal/blob/3b2eb08dfd381bdfa1e12ab4b15581f62f1fe737/IMG-20251105-WA0175.jpg'
         },
         {
             text: 'Birthday Moment 🎂',

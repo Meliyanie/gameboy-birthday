@@ -323,11 +323,11 @@ function startPhotoShow() {
             image: './images/kegiatan kominfo.jpg' 
         },
         {
-            text: 'Birthday Moment 🎂',
+            text: 'together Moment',
             image: './images/photo2.jpg'
         },
         {
-            text: 'Adventure Time 🌟',
+            text: 'eat Time 🌟',
             image: './images/photo3.jpg'
         },
         {

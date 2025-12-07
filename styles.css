@@ -780,7 +780,6 @@ body {
     object-fit: cover;
 }
 
-
 .photo-display::-webkit-scrollbar-thumb {
     background: #9bbc0f;
     border-radius: 3px;

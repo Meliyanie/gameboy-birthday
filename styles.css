@@ -758,20 +758,27 @@ body {
     text-align: center;
     min-height: 20px;
     flex-shrink: 0;
-}
+
 
 .photo-display {
     background: #1a1a2e;
     border-radius: 8px;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 15px;
-    padding: 15px;
-    overflow-y: auto;
-    overflow-x: hidden;
-    flex: 1;
-    max-height: 300px;
+    padding: 0;
+    overflow: hidden;
+
+    width: 100%;
+    aspect-ratio: 9 / 16;
+    max-height: none;
+}
+ 
+.photo-image {
+        width: 100%;
+        height: 100%;
+        object-fit contain;
 }
 
 /* Custom scrollbar for photo display */

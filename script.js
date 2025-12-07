@@ -320,7 +320,7 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date going to bingxue to bought boba ice cream 💕',
-            image: './images/IMG-20251120-WA0059.jpg' 
+            image: '../images/IMG-20251120-WA0059.jpg' 
         },
         {
             text: 'Birthday Moment 🎂',

@@ -320,15 +320,15 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date going to bingxue to bought boba ice cream 💕',
-            image: './https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(1).jpg' 
+            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(1).jpg' 
         },
         {
             text: 'together Moment',
-            image: './https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(2).png'
+            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(2).png'
         },
         {
             text: 'eat Time 🌟',
-            image: './https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(3).png'
+            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(3).png'
         },
         {
             text: 'Cozy Together ❤️',
@@ -340,15 +340,15 @@ function startPhotoShow() {
         },
         {
             text: 'Laugh Together 😂',
-            image: './https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo.jpg'
+            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo.jpg'
         },
         {
             text: 'who is thiss?',
-            image: './https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(1).png'
+            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(1).png'
         },
         {
             text: 'Love Forever 💖',
-            image: './https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo.png'
+            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo.png'
         }
     ];
     

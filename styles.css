@@ -774,7 +774,7 @@ body {
     max-height: 300px;
 }
 
-/*Custom scroolbar for photo display*/
+/* Custom scrollbar for photo display */
 .photo-display::-webkit-scrollbar {
     width: 6px;
 }
@@ -788,7 +788,7 @@ body {
     background: #9bbc0f;
     border-radius: 3px;
 }
-    
+
 .photo-display::-webkit-scrollbar-thumb:hover {
     background: #a0cc0f;
 }
@@ -1301,4 +1301,3 @@ body {
 .birthday-title {
     animation: glow 2s ease-in-out infinite;
 }
-

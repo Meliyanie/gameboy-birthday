@@ -320,7 +320,7 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date going to bingxue to bought boba ice cream 💕',
-            image: './images/Desain tanpa judul (23).png' 
+            image: '../images/Desain tanpa judul (23).png' 
         },
         {
             text: 'Birthday Moment 🎂',

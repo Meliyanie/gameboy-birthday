@@ -324,7 +324,7 @@ function startPhotoShow() {
         },
         {
             text: 'together Moment',
-            image: 'https://github.com/Meliyanie/gameboy-birthday/raw/6ed44834f39ec6da80daad4c63bf0ad9e5e60c65/images/kegiatan%20kominfo.png'
+            image: 'https://raw.githubusercontent.com/Meliyanie/gameboy-birthday/6ed44834f39ec6da80daad4c63bf0ad9e5e60c65/images/kegiatan%20kominfo.png'
         },
         {
             text: 'eat Time 🌟',

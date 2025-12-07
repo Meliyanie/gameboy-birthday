@@ -320,11 +320,11 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Our First Date going to bingxue to bought boba ice cream 💕',
-            image: './images/kegiatan kominfo (3) .png' 
+            image: './images/kegiatan kominfo (3).png' 
         },
         {
             text: 'together Moment',
-            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo%20(2).png'
+            image: 'https://github.com/Meliyanie/gameboy-birthday/raw/6ed44834f39ec6da80daad4c63bf0ad9e5e60c65/images/kegiatan%20kominfo.png'
         },
         {
             text: 'eat Time 🌟',

@@ -771,10 +771,9 @@ body {
     overflow: hidden;
 
     width: 100%;
-    height: auto;          
     aspect-ratio: 9 / 16;  
-    flex: none !important; 
-    max-height: none !important;
+    flex: none; 
+    max-height: none;
 }
 
 .photo-image {

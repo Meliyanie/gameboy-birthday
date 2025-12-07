@@ -761,25 +761,34 @@ body {
 
 
 .photo-display {
-    background: #1a1a2e !important;
-    border-radius: 8px !important;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: flex-start !important;
-    margin-bottom: 15px !important;
-    padding: 15px !important;
-    overflow-y: auto !important;
-    overflow-x: hidden !important;
-    flex: 1 !important;
-    max-height: 300px !important;
+    background: #1a1a2e;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    padding: 15px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex: 1;
+    max-height: 300px;
 }
 
-.photo-image {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover !important;
+/*Custom scroolbar for photo display*/
+.photo-display::-webkit-scrollbar {
+    width: 6px;
 }
 
+.photo-display::-webkit-scrollbar-track {
+    background:#333;
+    border-radius:3px;
+}
+
+.photo-display::-webkit-scrollbar-thumb {
+    background:#9bbc0f;
+    border-radius:3px;
+}
+    
 .photo-display::-webkit-scrollbar-thumb:hover {
     background: #a0cc0f;
 }

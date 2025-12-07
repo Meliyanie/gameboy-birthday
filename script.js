@@ -332,23 +332,27 @@ function startPhotoShow() {
         },
         {
             text: 'Cozy Together ❤️',
-            image: './'
+            image: 'https://raw.githubusercontent.com/Meliyanie/gameboy-birthday/9705fcaf82789c6e770b1d002be1aaa737a6508b/images/hand.jpg
+'
         },
         {
-            text: 'Sweet Memories 🥰',
-            image: './'
+            text: 'Mirror',
+            image: 'https://raw.githubusercontent.com/Meliyanie/gameboy-birthday/9705fcaf82789c6e770b1d002be1aaa737a6508b/images/berdua.jpg
+'
         },
         {
-            text: 'Laugh Together 😂',
-            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo.jpg'
+            text: 'My handsome',
+            image: 'https://raw.githubusercontent.com/Meliyanie/gameboy-birthday/9705fcaf82789c6e770b1d002be1aaa737a6508b/images/handsome.jpg
+'
         },
         {
             text: 'who is thiss?',
             image: 'https://raw.githubusercontent.com/Meliyanie/gameboy-birthday/074361dad35ecf8f5e68e911bdc6d65df898cde8/images/kegiatan%20kominfo%20(1).png'
         },
         {
-            text: 'Love Forever 💖',
-            image: 'https://github.com/Meliyanie/gameboy-birthday/blob/b92720affa5f5840c243e2605b6cb2794a2834b2/images/kegiatan%20kominfo.png'
+            text: 'My Love 💖',
+            image: 'https://raw.githubusercontent.com/Meliyanie/gameboy-birthday/9705fcaf82789c6e770b1d002be1aaa737a6508b/images/mirror.png
+'
         }
     ];
     
